@@ -12,7 +12,9 @@ Java技术栈之Ajax+Json学习
 
 #### 思维导图
 
+![image](https://github.com/CONTINUE12/Ajax-Json_course/blob/master/12.png)
 
+![image](https://github.com/CONTINUE12/Ajax-Json_course/blob/master/13.png)
 
 #### 参与贡献
 
